@@ -13,7 +13,7 @@ The DtoStrf library provides an emulation of the `dtostrf` function from avr-lib
 1. Include the library header in your Arduino sketch:
 
 ```cpp
-#include <DtoStrf.h>
+#include <dtoStrf.h>
 
 float value = 3.14159;
 char buffer[10];

@@ -6,7 +6,7 @@
     "sentence": "A library for converting float values to strings.",
     "paragraph": "This library provides the dtostrf function, which allows you to convert float values to strings in Arduino boards. It can be useful for displaying or transmitting float values over serial communication or other output devices that require string representations. The function takes in a float value, a width, and a number of decimal places and returns the corresponding string representation. The library is compatible with Arduino boards and can be easily included in your Arduino sketches.",
     "category": "Data Conversion",
-    "url": "https://github.com/your-username/dtostrf-library",
+    "url": "https://github.com/alessandroBrugnera9/dtostrf-library",
     "architectures": [
       "avr",
       "sam",
