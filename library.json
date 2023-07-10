@@ -1,27 +1,24 @@
 {
-    "name": "DtoStrf Library",
-    "version": "1.0.0",
-    "author": "Alessandro Brugnera Silva",
-    "maintainer": "Alessandro Brugnera Silva",
-    "sentence": "A library for converting float values to strings.",
-    "paragraph": "This library provides the dtostrf function, which allows you to convert float values to strings in Arduino boards. It can be useful for displaying or transmitting float values over serial communication or other output devices that require string representations. The function takes in a float value, a width, and a number of decimal places and returns the corresponding string representation. The library is compatible with Arduino boards and can be easily included in your Arduino sketches.",
-    "category": "Data Conversion",
-    "url": "https://github.com/alessandroBrugnera9/dtostrf-library",
-    "architectures": [
-      "avr",
-      "sam",
-      "esp8266",
-      "esp32"
-    ],
-    "keywords": [
-      "arduino",
-      "dtostrf",
-      "float",
-      "string",
-      "conversion"
-    ],
-    "dependencies": {
-      "": ""
-    }
-  }
-  
+  "name": "DtoStrf Library",
+  "version": "1.0",
+  "author": "Alessandro Brugnera Silva",
+  "maintainer": "Alessandro Brugnera Silva",
+  "sentence": "A library for converting float values to strings.",
+  "paragraph": "This library provides the dtostrf function, which allows you to convert float values to strings in Arduino boards. It can be useful for displaying or transmitting float values over serial communication or other output devices that require string representations. The function takes in a float value, a width, and a number of decimal places and returns the corresponding string representation. The library is compatible with Arduino boards and can be easily included in your Arduino sketches.",
+  "category": "Data Conversion",
+  "url": "https://github.com/alessandroBrugnera9/dtostrf-library",
+  "architectures": [
+    "avr",
+    "sam",
+    "esp8266",
+    "esp32"
+  ],
+  "keywords": [
+    "arduino",
+    "dtostrf",
+    "float",
+    "string",
+    "conversion"
+  ],
+  "dependencies": {}
+}
